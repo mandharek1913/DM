@@ -11,6 +11,11 @@ export const metadata: Metadata = {
   title: 'Crumb & Co. | Handmade Layer Cakes Baked to Order',
   description:
     'Order small-batch layer cakes online: chocolate ganache, red velvet, strawberry shortcake and more, baked fresh within 48 hours.',
+  verification: {
+    google:
+      "3-iCJyX6_zf2crF5ZLk9fRCscPvU14-CPxwqkN4-ihE"
+  },
+  
 }
 
 export const viewport: Viewport = {
